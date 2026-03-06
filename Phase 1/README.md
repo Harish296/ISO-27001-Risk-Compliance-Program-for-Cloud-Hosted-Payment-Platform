@@ -1,7 +1,7 @@
 ## Phase 1 - Gap Analysis
 
 **Standard:** ISO 27001:2022  
-**Document:** [View Full Report](Phase-1/gap-analysis-report.pdf)
+**Document:** [View Full Report](gap-analysis-report.pdf)
 
 The first phase of this project involved conducting an ISO 27001:2022 gap analysis for Pay29 Solutions to understand where the organization currently stands before any security controls are put in place.
 To do this I reviewed Pay29's existing security posture against all seven mandatory clauses of ISO 27001:2022 - breaking each clause down to the sub-clause level to get a more granular view. This gave a total of 25 sub-clauses assessed across areas like leadership, planning, support, operations and performance evaluation.
