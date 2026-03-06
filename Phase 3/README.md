@@ -1,4 +1,4 @@
-## Phase 3 — Incident Response
+## Phase 3 - Incident Response
 
 **Standard:** ISO 27001:2022  
 **Document:** [View Playbook](playbook-phishing.md)
